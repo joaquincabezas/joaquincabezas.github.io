@@ -18,4 +18,4 @@ Hello! My name is Joaquín Cabezas, and I am pursuing a PhD in machine learning 
 
 My work is closely related to concepts like geometric deep learning, graph neural networks and representation learning. On top of this, a critical aspect is interpretability, due to the nature of Social Data Science itself.
 
-I am lucky to be advised by Jordi Duch and Sergio Gomez of the [Alephsys Group](https://alephsyslab.com/){:target="\_blank"} at Universitat Rovira i Virgili.
+I am lucky to be advised by Jordi Duch and Sergio Gomez of the [Alephsys Lab](https://alephsyslab.com/){:target="\_blank"} at Universitat Rovira i Virgili.
